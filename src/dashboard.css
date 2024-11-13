@@ -1,0 +1,110 @@
+.header-wrap{
+    padding: 0px 12px;
+    padding-top: 8px;
+    margin-bottom: 8px !important;
+}
+.workspace-heading{
+    margin: 0px;
+    line-height: 1.5;
+    font-size: 11px;
+    font-weight: 500;
+    color: #6a707c !important;
+}
+.company-name-heading{
+    margin: 0px;
+    line-height: 1.5;
+    font-size: 13px;
+    font-weight: 500;
+    color: #2d2f34 !important;
+    display: flex;
+    align-self: center;
+    margin: 5px 0px;
+}
+
+.sidebar-wrap .MuiListItemIcon-root{
+    min-width: max-content;
+}
+
+.sidebar-wrap .MuiListItem-root{
+    gap: 5px;
+}
+
+.profile-wrap{
+    min-height: 57px;
+    border-bottom: 1px solid #eaecf0;
+    display: flex;
+    justify-content: end;
+    padding-right: 16px;
+    align-items: center;
+}
+
+.sidebar-tabs-heading{
+    margin: 0px;
+    line-height: 1.5;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.content-wrap .heading{
+    margin: 0px;
+    /* font-family: Inter; */
+    /* font-size: 2.125rem; */
+    line-height: 1.235;
+    font-weight: 500;
+    letter-spacing: 0em;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    font-size: 14px;
+}
+
+.content-wrap .description{
+    color: #6a707c !important;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 1.35;
+    letter-spacing: 0em;
+}
+
+.content-wrap .toolbar-wrap{
+    margin-top: 14px;
+}
+
+.toolbar-wrap .left-content-wrap{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.profile-wrap .create-btn{
+    background: #7073fc;
+}
+
+.MuiTab-root .MuiButtonBase-root .Mui-selected{
+    color: black;
+}
+
+.MuiSelect-select{
+    padding: 4.5px 14px !important;
+    padding-right: 32px !important;
+}
+
+.MuiTableCell-root{
+    padding: 0px 16px !important;
+}
+
+.MuiInputBase-inputAdornedStart{
+    padding: 5.5px 8px !important;
+}
+
+.table-heading{
+    margin: 0px;
+    line-height: 1.6;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    color: #2d2f34;
+    display: flex;
+    align-items: center;
+    flex-grow: 1;
+}
